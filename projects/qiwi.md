@@ -62,7 +62,7 @@ The **Orders Management Page** enables merchants to handle incoming and complete
 
 - **Frontend**: React, SASS  
 - **Backend**: Node.js, MariaDB  
-- **Third-Party Integrations**: Shopify APIs, payment gateways  
+- **Third-Party Integrations**: Shopify APIs and webbhooks, payment gateways  
 
 ---
 
