@@ -38,7 +38,7 @@ The **performance tracking page** allows users to monitor their earnings and sta
 
 - **Frontend**: React, SASS  
 - **Backend**: Node.js, MariaDB, PHP  
-- **Third-Party Integrations**: Affiliate program APIs and postbacks.
+- **Third-Party Integrations**: Affiliate program APIs and postbacks, Telegrambot APIs and webbhooks.
 
 ---
 
