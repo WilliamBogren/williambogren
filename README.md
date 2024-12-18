@@ -5,14 +5,14 @@
 
 - 🌱 I’m currently learning **Wordpress and WP plugins**
 
-- 📫 How to reach me **williambogren44@gmail.com**
+- 📫 How to reach me: **williambogren44@gmail.com**
 
 ---
 
 <h3>Projects</h3>
 
-- [**Qiwi Project**](qiwi.md)  
-- [**Savvy Project**](savvy.md)  
+- [**Qiwi Project**](projects/qiwi.md)  
+- [**Savvy Project**](projects/savvy.md)  
 
 ---
 
